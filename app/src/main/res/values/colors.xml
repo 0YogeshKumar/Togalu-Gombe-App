@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theater_black">#0A0A0A</color>
+    <color name="theater_charcoal">#2A2A2A</color>
+    <color name="puppet_gold">#FFCA28</color> <!-- Brighter Gold -->
+    <color name="button_text">#000000</color> <!-- Black text for buttons -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#CCCCCC</color>
+</resources>

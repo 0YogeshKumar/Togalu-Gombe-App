@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Force Dark Mode No Action Bar -->
+    <style name="Theme.TogaluGombe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/puppet_gold</item>
+        <item name="colorSecondary">@color/puppet_gold</item>
+        <item name="android:windowBackground">@color/theater_black</item>
+        <item name="android:textColorPrimary">@color/text_white</item>
+        <item name="android:textColorSecondary">@color/text_gray</item>
+    </style>
+</resources>
